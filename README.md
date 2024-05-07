@@ -1,5 +1,7 @@
 # Javascript Library Skeleton
 
+[![Runs All Unit tests](https://github.com/cesargb/javascript-library-skeleton/actions/workflows/test.yml/badge.svg)](https://github.com/cesargb/javascript-library-skeleton/actions/workflows/test.yml)
+
 This is a skeleton for a Javascript library.
 
 ## Build
