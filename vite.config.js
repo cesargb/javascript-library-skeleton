@@ -8,5 +8,9 @@ export default defineConfig({
       name: 'myLibrary',
       fileName: 'myLibrary'
     }
+  },
+
+  test: {
+    testFiles: ['tests/**/*.spec.js']
   }
 })
